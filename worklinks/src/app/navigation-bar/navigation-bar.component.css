@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 167aae6ddeec681acf28161fe54915482ad18380
 nav{
   /*text-align: center; */
   font-size: 25px;
@@ -80,6 +84,8 @@ nav{
  background-color: white;
  color: #49224A;
  margin-right: 16px;
+<<<<<<< HEAD
+=======
 
 }
 .buttn{
@@ -97,4 +103,26 @@ nav{
   margin-right: 20px;
 
 }
+
+>>>>>>> 167aae6ddeec681acf28161fe54915482ad18380
+
+}
+.buttn{
+  margin-left: 530px;
+}
+.jobse{
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
   
+}
+.comp{
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+
+<<<<<<< HEAD
+}
+  
+=======
+>>>>>>> 167aae6ddeec681acf28161fe54915482ad18380
